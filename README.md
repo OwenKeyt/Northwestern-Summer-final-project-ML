@@ -27,6 +27,6 @@ The Linear Regression model provided the best fit for this particular dataset.
 ## Retrospective & Future Improvements
 
 Looking back on this project from a few years ago, I would now implement a few additional steps to improve it:
-* **Feature Scaling:** Use a `StandardScaler` to scale all numerical features before fitting the models.
-* **Hyperparameter Tuning:** Use `GridSearchCV` on the Random Forest model to find the optimal hyperparameters.
+* **Feature Scaling:** Look in to using a standard scalar to scale all numerical features before fitting the models.
+* **Hyperparameter Tuning:** Using more tools on the Random Forest model to find the optimal hyperparameters.
 * **Additional Metrics:** Evaluate the models using Mean Absolute Error (MAE) and Root Mean Squared Error (RMSE) in addition to R².
