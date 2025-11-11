@@ -24,7 +24,7 @@ The models performed as follows on the test data:
 
 The Linear Regression model provided the best fit for this particular dataset.
 
-## Retrospective & Future Improvements�
+## Retrospective & Future Improvements
 
 Looking back on this project from a few years ago, I would now implement a few additional steps to improve it:
 * **Feature Scaling:** Use a `StandardScaler` to scale all numerical features before fitting the models.
